@@ -242,3 +242,4 @@ export default function HomePage() {
   );
 }
 // Add dark mode support
+// Improve responsive design
