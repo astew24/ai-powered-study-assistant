@@ -461,3 +461,4 @@ export default function StudySession({
 }
 // Add study session history
 // Add progress persistence
+// Add lazy loading
